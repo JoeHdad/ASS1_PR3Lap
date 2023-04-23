@@ -1,0 +1,20 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Mar 30, 2023, 2:15:24 PM
+    Author     : hp
+*/
+.root{
+   -fx-background-color: dimgrey;
+   -fx-font-size: 14pt;
+}
+.button{
+    -fx-background-color:darkgreen;
+    -fx-text-fill: white;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-padding: 10;
+
+}
